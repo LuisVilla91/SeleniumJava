@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21da3bad-edd2-4faa-9329-746b7f0a5c30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1au0O5Wff1iULgXfvAQ0UrrtSif" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG.WaitTests.testWaitUntilHidden">
+    <configuration name="FileUploadTests.testFileUpload" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="alerts" />
+      <option name="MAIN_CLASS_NAME" value="alerts.FileUploadTests" />
+      <option name="METHOD_NAME" value="testFileUpload" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordTest.testRetrievePassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forgotPassword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forgotPassword" />
+      <option name="MAIN_CLASS_NAME" value="forgotPassword.ForgotPasswordTest" />
+      <option name="METHOD_NAME" value="testRetrievePassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameTest.testWysiwyg" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IFrame" />
+      <option name="MAIN_CLASS_NAME" value="IFrame.FrameTest" />
+      <option name="METHOD_NAME" value="testWysiwyg" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeysTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Keys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Keys" />
+      <option name="MAIN_CLASS_NAME" value="Keys.KeysTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitTests.testWaitUntilHidden" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Wait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Wait" />
+      <option name="MAIN_CLASS_NAME" value="Wait.WaitTests" />
+      <option name="METHOD_NAME" value="testWaitUntilHidden" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WaitTests.testWaitUntilHidden" />
+        <item itemvalue="TestNG.ForgotPasswordTest.testRetrievePassword" />
+        <item itemvalue="TestNG.FrameTest.testWysiwyg" />
+        <item itemvalue="TestNG.FileUploadTests.testFileUpload" />
+        <item itemvalue="TestNG.KeysTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21da3bad-edd2-4faa-9329-746b7f0a5c30" name="Default Changelist" comment="" />
+      <created>1587570136268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587570136268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591285009498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1591285009498" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1588868794988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588868794988" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1588868794987">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588868794987" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1588868794986">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588868794986" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1588868794987">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588868794987" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1588868794989">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588868794989" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1588868794988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588868794988" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1588868794988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588868794988" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1588868794989">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588868794989" />
+    <state x="332" y="151" key="NewModule_or_Project.wizard" timestamp="1589219704074">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="332" y="151" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1589219704074" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1590080645771">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1590080645771" />
+    <state x="97" y="147" key="new project wizard" timestamp="1589234859819">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="147" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1589234859819" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587666648038">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587666648038" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumJava$KeysTest_tesPi.ic" NAME="KeysTest.tesPi Coverage Results" MODIFIED="1587754319645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Keys.*</FILTER>
+    </SUITE>
+  </component>
+</project>
