@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
-      <module name="webdriver_java" target="1.17" />
+      <module name="webdriver_java" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
