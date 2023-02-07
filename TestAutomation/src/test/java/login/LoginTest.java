@@ -16,7 +16,7 @@ public class LoginTest extends BaseTest {
        loginPage.setUsername("tomsmith");
        loginPage.setPassword("SuperSecretPassword!");
        SecureAreaPage secureAreaPage = loginPage.clickLoginButton();
-       assertTrue(secureAreaPage.getAlertText().contains("secure area") ,"Password incorret");
+       assertTrue(secureAreaPage.getAlertText().contains("secure area") ,"Password incorrect");
 
     }
 

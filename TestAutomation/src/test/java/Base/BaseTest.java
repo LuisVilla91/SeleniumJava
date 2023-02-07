@@ -22,24 +22,24 @@ public class BaseTest {
     protected HomePage homePage;
 
 
-    @BeforeMethod
-    public void goHome(){
-        driver.get("https://the-internet.herokuapp.com/");
-        homePage = new HomePage(driver);
-    }
+    //@BeforeMethod
+    //public void goHome() {
+        //driver.get("https://the-internet.herokuapp.com/");
+    //homePage = new HomePage(driver);
+    //}
 
     @BeforeClass
     public void setUp(){
-        System.setProperty("webdriver.chrome.driver", "resources/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "resources/chromedriver.exe");
         driver = new ChromeDriver();
-        driver.get("https://the-internet.herokuapp.com/");
+        driver.get("https://www.hexacta.com/");
         homePage = new HomePage(driver);
-        goHome();
+        //goHome();
 
     }
     @AfterClass
     public void tearDown(){
-        //driver.quit();
+        driver.quit();
     }
     @AfterMethod
     public void recordFailure(ITestResult result) throws IOException {

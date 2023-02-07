@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="forgotPassword.ForgotPasswordTest">
+        <methods>
+          <include name="recordFailure"/>
+          <include name="tearDown"/>
+          <include name="testRetrievePassword"/>
+          <include name="setUp"/>
+          <include name="goHome"/>
+        </methods>
+      </class> <!-- forgotPassword.ForgotPasswordTest -->
+      <class name="BaseEyes.SearchTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testSearchByFullName"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- BaseEyes.SearchTest -->
+      <class name="IFrame.FrameTest">
+        <methods>
+          <include name="testWysiwyg"/>
+          <include name="recordFailure"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="goHome"/>
+        </methods>
+      </class> <!-- IFrame.FrameTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

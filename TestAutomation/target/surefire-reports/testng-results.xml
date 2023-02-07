@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-31T16:45:16Z" name="alerts.AlertsTest" finished-at="2023-01-31T16:45:23Z" duration-ms="6725">
+    <groups>
+    </groups>
+    <test started-at="2023-01-31T16:45:16Z" name="Command line test" finished-at="2023-01-31T16:45:23Z" duration-ms="6725">
+      <class name="alerts.AlertsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:alerts.AlertsTest@6eceb130]" started-at="2023-01-31T16:45:16Z" name="setUp" finished-at="2023-01-31T16:45:22Z" duration-ms="6072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:alerts.AlertsTest@6eceb130]" started-at="2023-01-31T16:45:22Z" name="goHome" finished-at="2023-01-31T16:45:22Z" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testAcceptAlert()[pri:0, instance:alerts.AlertsTest@6eceb130]" started-at="2023-01-31T16:45:22Z" name="testAcceptAlert" finished-at="2023-01-31T16:45:23Z" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAcceptAlert -->
+        <test-method is-config="true" signature="recordFailure(org.testng.ITestResult)[pri:0, instance:alerts.AlertsTest@6eceb130]" started-at="2023-01-31T16:45:23Z" name="recordFailure" finished-at="2023-01-31T16:45:23Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAcceptAlert status=SUCCESS method=AlertsTest.testAcceptAlert()[pri:0, instance:alerts.AlertsTest@6eceb130] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recordFailure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:alerts.AlertsTest@6eceb130]" started-at="2023-01-31T16:45:23Z" name="tearDown" finished-at="2023-01-31T16:45:23Z" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- alerts.AlertsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- alerts.AlertsTest -->
+</testng-results>

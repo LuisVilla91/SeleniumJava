@@ -1,15 +1,33 @@
 package pages;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
 public class HomePage {
 
     private WebDriver driver;
 
     public  HomePage(WebDriver driver){
+
         this.driver = driver;
     }
+    private By searchButton = By.className("searchbox");
+    private By searchInput = By.id("search-field");
+
+    public void clickSearch(){
+        driver.findElement(searchButton).click();
+    }
+
+    public SearchPage searchPageInteraction (){
+        WebElement input = driver.findElement(searchInput);
+        input.sendKeys("Outsource");
+        input.sendKeys(Keys.ENTER);
+        return new SearchPage(driver);
+    }
+
+
     public LoginPage clickFromAuthentication(){
         clickLink("Form Authentication");
         return new LoginPage(driver);

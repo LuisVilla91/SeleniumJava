@@ -13,6 +13,7 @@ public class WindowManager {
     }
 
     public void goBack(){
+
         navigate.back();
     }
 
